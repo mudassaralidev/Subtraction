@@ -10,7 +10,7 @@ int main()
     cin >> x >> y;
  
     // the subtracted value of two numbers stored in the third variable
-    subtract = x - y;
+    subtract = x ;
  
     // Prints subtracted value 
     cout << x << " - " <<  y << " = " << subtract;     
